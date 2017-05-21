@@ -10,3 +10,8 @@
 ### Ethicon
 ### Realize
 ### WeightLossSurgery
+
+## example code
+function console {
+  window.console.log('This will be interesting');
+}
